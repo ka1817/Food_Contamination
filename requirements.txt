@@ -1,0 +1,8 @@
+tensorflow
+streamlit
+streamlit-webrtc
+opencv-python
+playsound
+numpy
+scikit-learn
+Pillow
