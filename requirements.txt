@@ -2,7 +2,7 @@ tensorflow
 streamlit
 streamlit-webrtc
 opencv-python
-playsound
+playsound==1.3.0
 numpy
 scikit-learn
 Pillow
